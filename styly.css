@@ -1,0 +1,92 @@
+    body {
+        background-color: #FFF0DE
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 46px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    }
+
+
+    h3 {
+        font-size: 39px;
+        text-align: center;
+        font-style: oblique;
+    }
+
+    h5 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #A46617;
+    }
+
+    p {
+        font-size: 28px;
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+
+
+    span {
+        color: #A46617;
+        font-style: italic;
+        font-size: 34px;
+        text-decoration: underline;
+    }
+
+    .Inicio {
+        border: 5px solid;
+        border-radius: 25px;
+        background-color: #FD9D24;
+
+    }
+
+    p footer {
+        text-align: center;
+    }
+
+    footer {
+
+        text-align: end;
+        border: 5px solid;
+        border-radius: 25px;
+        background-color: #FD9D24;
+    }
+
+    .Contatos {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 35px;
+        transform: translateY(-5);
+        font-size: 35px;
+    }
+
+    .topicos {
+        text-align: center;
+        border: 4px solid;
+        border-radius: 25px;
+        background-color: #c795598c;
+    }
+
+    li {
+        font-size: 28px;
+        text-align: left;
+
+    }
+
+    .footer {
+        text-align: center;
+    }
+
+    .foto {
+        width: 18%;
+        
+
+    }
+    .foto1{
+        width: 29%;
+    border-radius:26px ;
+    }
