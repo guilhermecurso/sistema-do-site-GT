@@ -1,0 +1,162 @@
+    body {
+        background-color: #FFF0DE
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 46px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    }
+
+
+    h3 {
+        font-size: 39px;
+        text-align: center;
+        font-style: oblique;
+    }
+
+    h5 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #A46617;
+    }
+
+.ytb{
+     text-align: center;
+        border: 17px solid;
+        border-radius: 33px;
+        background-color: #c795598c;
+}
+
+    .divbtn {
+     display:  -webkit-flex;
+     align-items: flex-end;
+     justify-content: center;
+     gap: 37px;
+     
+ }
+ .divbtn img{
+    width: 100px;
+    text-align: right;
+ }
+
+
+ .linkonu {
+     text-decoration: none;
+     color: black;
+     border-radius: 24px;
+     background-color: white;
+     padding: 14px; }
+
+     .video {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     padding: 20px;}
+
+    p {
+        font-size: 28px;
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+
+
+    span {
+        color: #A46617;
+        font-style: italic;
+        font-size: 34px;
+        text-decoration: underline;
+    }
+
+    .Inicio {
+        border: 5px solid;
+        border-radius: 20px;
+        background-color: #FD9D24;
+
+    }
+   
+    p footer {
+        text-align: center;
+    }
+
+    footer {
+font-size: 60px;
+        text-align: center;
+        border: 5px solid;
+        border-radius: 25px;
+        background-color: #FD9D24;
+    }
+
+
+    .Contatos {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 35px;
+        transform: translateY(-5);
+        font-size: 35px;
+    }
+
+    .topicos {
+        text-align: center;
+        border: 4px solid;
+        border-radius: 25px;
+        background-color: #c795598c;
+    }
+
+    li {
+        font-size: 28px;
+        text-align: left;
+
+    }
+
+    
+
+    .foto {
+        width: 18%;
+        
+
+    }
+    .foto1{
+        width: 29%;
+    border-radius:26px ;
+    }
+
+    .footer {
+    width: 100%;
+    padding: 30px 20px;
+    
+    text-align: center;
+    position: relative;
+    z-index: 10;
+}
+
+.link-energisa img {
+    height: 125px;
+    width: auto;
+    object-fit: contain;
+    vertical-align: middle;
+}
+
+.footer-contatos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.footer-contatos a {
+    color: #ffffff;
+    font-size: 25px;
+    text-decoration: none;
+    display: inline-flex;
+    transition: 0.3s;
+}
+
+.footer-contatos a:hover {
+    color: #4facfe;
+    transform: translateY(-3px);
+}
